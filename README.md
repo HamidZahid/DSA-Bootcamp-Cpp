@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🔥🔥DSA Bootcamp C++🔥🔥</h1>
+<h1>🔥🔥DSA Bootcamp C++</h1>
 </div>
 
 ![DSA-Bootcamp-Cpp](https://socialify.git.ci/saadhaxxan/DSA-Bootcamp-Cpp/image?font=Source%20Code%20Pro&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
